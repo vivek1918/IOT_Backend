@@ -108,9 +108,9 @@ MQTT
 
 ---
 
-#🔌 REST API Endpoints
+# 🔌 REST API Endpoints
 
-##Ingest Sensor Data
+## Ingest Sensor Data
 
 POST ```/api/sensor/ingest```
 
