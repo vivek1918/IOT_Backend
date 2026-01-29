@@ -34,7 +34,7 @@ Additionally, the project implements an **MQTT subscriber** to consume real-time
 ---
 
 ## 📂 Project Structure
-
+```bash
 iot-backend/
 │
 ├── src/
@@ -50,6 +50,7 @@ iot-backend/
 ├── package.json
 ├── README.md
 └── node_modules/
+```
 
 # IoT Backend System
 
