@@ -15,6 +15,33 @@ Watch the demo video on [Drive](https://drive.google.com/file/d/1Eh_Y68dYVkzusGI
 
 ---
 
+## 🗄️ MongoDB Atlas Data Persistence Proof
+
+The following screenshot shows sensor data successfully stored in **MongoDB Atlas** using **Mongoose**.
+
+This confirms that:
+- Data ingested via REST API is persisted
+- Data ingested via MQTT subscriber is persisted
+- MongoDB Atlas cloud database integration is working correctly
+
+### 📸 MongoDB Atlas – Stored Sensor Data
+<img width="1917" height="874" alt="image" src="https://github.com/user-attachments/assets/80fc70b0-0373-4768-8bbd-4ceae7a1625d" />
+
+**Collection:** `sensorreadings`  
+**Database:** `iotDB`
+
+Each document contains:
+- `deviceId`
+- `temperature`
+- `timestamp`
+- `createdAt`
+
+This validates the requirement:
+> *Persist data in MongoDB Atlas using Mongoose.*
+
+---
+
+
 ## 🚀 Features
 
 - REST API to ingest sensor temperature data
