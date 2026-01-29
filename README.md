@@ -11,7 +11,7 @@ Additionally, the project implements an **MQTT subscriber** to consume real-time
 
 ## Project Demo
 
-Watch the demo video on [Drive]([https://www.loom.com/share/your-video-id](https://drive.google.com/file/d/1Eh_Y68dYVkzusGIg_3sFHr4JBH-gS2iJ/view?usp=sharing))
+Watch the demo video on [Drive]([https://drive.google.com/file/d/1Eh_Y68dYVkzusGIg_3sFHr4JBH-gS2iJ/view?usp=sharing)
 
 ---
 
